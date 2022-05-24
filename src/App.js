@@ -16,6 +16,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <div className="title-app">Filter List</div>
         <input className="input-app" />
         <button className="button-one-app">Submit</button>
       </header>

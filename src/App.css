@@ -48,4 +48,10 @@
   width: 200px;
   height: 40px;
   border-radius: 10px;
+  margin-top: 10px;
+}
+
+.title-app {
+  margin-bottom: 100px;
+  font-size: 80px;
 }
